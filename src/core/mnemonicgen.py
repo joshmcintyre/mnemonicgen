@@ -18,7 +18,7 @@ import os
 import hashlib
 import bitstring
 
-WORDS_PATH = "/root/Projetos_python/bip39_words.txt"
+WORDS_PATH = "bip39_words.txt"
 DEF_ENTROPY_BITS = 128
 
 
